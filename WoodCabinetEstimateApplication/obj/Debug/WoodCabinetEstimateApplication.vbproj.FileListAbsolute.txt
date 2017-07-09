@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\bin\Debug\WoodCabinetEstimateApplication.exe.config
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\bin\Debug\WoodCabinetEstimateApplication.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\bin\Debug\WoodCabinetEstimateApplication.pdb
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\bin\Debug\WoodCabinetEstimateApplication.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\obj\Debug\WoodCabinetEstimateApplication.Resources.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\obj\Debug\WoodCabinetEstimateApplication.WoodCabinetApp.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\obj\Debug\WoodCabinetEstimateApplication.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\obj\Debug\WoodCabinetEstimateApplication.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\obj\Debug\WoodCabinetEstimateApplication.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WoodCabinetEstimateApplication\WoodCabinetEstimateApplication\obj\Debug\WoodCabinetEstimateApplication.pdb
